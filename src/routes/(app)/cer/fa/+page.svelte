@@ -7,29 +7,45 @@
     import { page } from '$app/stores';
 </script>
 
-<div lang={$page.url.pathname.split('/').at(-1)}>
-    <h1> This is my computing education research FAQ. </h1>
+<div lang={$page.url.pathname.split('/').at(-1)} dir="rtl">
+    <h1>پرسش و پاسخ من درباره پژوهش در حوزه آموزش رایانش</h1>
 
-    <em>Translation by [insert author]</em>
+    <div dir="ltr">
+        <em dir="ltr">Translation by M. Sadegh Salimi</em>
+    </div>
 
-    <p>
-        I started it with the help of several computing education researchers at
-        a Dagstuhl retreat in 2016. I consider it a community resource, so if
-        you see something to add, fix, or improve, write me, or submit <External
-            to="https://github.com/amyjko/faculty/issues">an issue</External
-        > or
-        <External to="https://github.com/amyjko/faculty/pulls"
-            >pull request</External
-        >
+    <p style="background-color:#Fdc7c7">
+        <b>تذکر:</b>
+        <i>
+            این صفحه توسط داوطلبان ترجمه شده است و نویسنده‌ی اصلی مسئولیتی بابت این ترجمه ندارد.
+            شما نیز می‌توانید در راستای ارتقای کیفیت این ترجمه، از طریق
+            <External to="https://github.com/amyjko/faculty">
+                مخزن GitHub این وب‌سایت
+            </External>
+            مشارکت کنید.
+        </i>
     </p>
 
-    <SectionList path="/cer" />
+    <p>
+        من توسعه این صفحه را با کمک چندین پژوهش‌گرِ حوزه آموزش رایانش (Computing Education)
+        در گردهمایی Dagstuhl در سال ۲۰۱۶ شروع کردم.
+        ‌این جا را یک منبع مهم برای جامعه آموزشی می‌دانم. پس اگر شما هم جایی برای بهتر شدن‌ش
+        می‌بینید، برای من بنویسید یا
+        <External
+            to="https://github.com/amyjko/faculty/issues">issue</External
+        > یا
+        <External to="https://github.com/amyjko/faculty/pulls"
+            >pull request</External
+        > بگذارید.
+    </p>
+
+    <SectionList path="/cer/fa" />
 
     <p>
-        Computing education research (CER), also known as computer science
-        education (CSEd) research, is the study of how people learn and teach
-        computing, broadly construed. This FAQ will teach you more about the
-        field and how you might contribute to it.
+        پژوهشِ آموزشِ رایانش (CER: Computing Education Reasearch)، به عنوانِ
+        پژوهشِ آموزش علوم کامپیوتر (CSEd: Computer Science Education) نیز شناخته می‌شود که
+        به طور گسترده به بررسی و تفسیر چگونگی یادگیری و آموزش تفکر رایانشی در بین مردم می‌پردازد.
+        این صفحه اطلاعاتی را در مورد این حوزه‌ی پژوهشی و چگونگی مشارکت در آن را در اختیار شما قرار می‌دهد.
     </p>
 
     <Section id="what-is-cer" header="What is computing education research?">
