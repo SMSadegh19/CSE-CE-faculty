@@ -48,41 +48,39 @@
         این صفحه اطلاعاتی را در مورد این حوزه‌ی پژوهشی و چگونگی مشارکت در آن را در اختیار شما قرار می‌دهد.
     </p>
 
-    <Section id="what-is-cer" header="What is computing education research?">
+    <Section id="what-is-cer" header="منظور از پژوهش در حوزه آموزش رایانش چیست؟">
         <p>
-            First, CER is not teaching. Teaching is helping people change their
-            knowledge, skills, attitudes, beliefs, identities. Research is
-            discovery and invention. Teachers teach computing, whereas computing
-            education researchers make discoveries about this teaching and
-            learning, and invent new ways for these teaching and learning to
-            occur. CER is an example of <External
+            اول از همه باید بگوییم که پژوهش، درس دادن نیست. درس دادن فرایندِ کمک کردن به مردم برای
+            تغییر در سطح دانش، مهارت‌ها، نگرش‌ها، باورها و هویت آن‌هاست. پژوهش کشف کردن و اختراع است.
+            معلمان رایانش را یاد می‌دهند اما محققان حوزه آموزش رایانش به کشف نکاتِ حول درس دادن و یادگیری
+            و ابداع کردن روش‌های جدید برای آن‌ها می‌پردازند.
+            در واقع پژوهشِ آموزش رایانش همانند پژوهشِ آموزش ریاضی یا پژوهشِ آموزش علوم، یک مثال از
+            <External
                 to="https://www.nap.edu/catalog/13362/discipline-based-education-research-understanding-and-improving-learning-in-undergraduate"
                 >discipline-based education research</External
-            >, like math education research or science education research, all
-            of which are part of the broader field of education and learning
-            sciences research.
+            >
+            است؛ در واقع همه‌ی این فیلدها یک بخش از فیلد وسیع‌ترِ پژوهش در حوزه‌ی آموزش و علوم یادگیری هستند.
         </p>
 
         <p>
-            CER is also not educational technology research (EdTech). Computing
-            education researchers often create educational technologies to
-            support the learning and teaching of computing, but CER is not
-            explicitly concerned with the broader use of technology in learning,
-            teaching, and education. It's specifically concerned with the
-            learning and teaching of computing in particular. Many computer
-            science researchers invent learning technologies, but are not
-            computing education researchers, because those technologies are not
-            concerned with the learning of computing.
+            هم‌چنین توجه داشته باشیم که پژوهشِ در فضای آموزشِ رایانش با
+            پژوهش در فضای فناوری آموزشی (EdTech) تفاوت دارد.
+            محققان حوزه‌ی پژوهش آموزش رایانش غالبا فناوی‌های آموزشی‌ای را می‌سازند که به
+            آموزش و یادگیری رایانشی کمک کند؛ اما آن‌ها به طور دقیق دغدغه‌ای برای
+            استفاده‌ی گسترده‌تر تکنولوژی در فضای آموزش و یادگیری ندارند.
+            این حوزه به طور خاص به یادگیری و آموزش رایانش می‌پردازد.
+            فناوری‌های یادگیری را خیلی از محققان علوم کامپیوتر توسعه می‌دهند و نه محققان حوزه آموزش رایانش؛
+            چرا که فناوری‌ها تمرکز اصلی یادگیری مفاهیم رایانشی نیست.
         </p>
 
         <p>
-            It's also important to note that I view "computing" broadly: it's
-            not just about programming, or even just about computer science, but
-            also about all of the phenomena surrounding computing, including
-            data, information, privacy, security, ethics, software engineering,
-            and sociocultural and sociopolitical views of computing in society.
-            This means that computing education and CER can and does cover far
-            more than just learning to code&mdash;it just hasn't historically.
+            همچنین این نکته مهم است که من به "رایانش" به طور گسترده نگاه می کنم:
+            رایانش فقط در مورد برنامه‌نویسی یا حتی فقط در مورد علوم کامپیوتر نیست،
+            بلکه به همه‌ی موارد پدیده‌های رایانشی از جمله داده‌ها، اطلاعات، حریم خصوصی، امنیت، اخلاق،
+            مهندسی نرم‌افزار، و دیدگاه‌های اجتماعی-فرهنگی و اجتماعی-سیاسی رایانش در جامعه
+            نیز می‌پردازد. این بدان معناست که آموزش رایانش و تحقیق در این فضا
+            می‌توانند بسیار فراتر از یادگیری کدنویسی نیز بروند.
+            (از نظر تاریخی این طور نبوده.)
         </p>
     </Section>
 
