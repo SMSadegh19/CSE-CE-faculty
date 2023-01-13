@@ -150,6 +150,18 @@ export const Amy: ProfileSpec = {
             start: 2022,
             end: 2022,
             description:
+                'I was interviewed more extensively about our Google gift for STEP CS tuition subsidy.',
+            url: 'https://www.425business.com/news/google-uw-step-cs-program-donation/article_bde487ac-819f-11ed-9562-870653743a86.html',
+            title: 'How a Big Donation is Making a Difference for One Local Computer Science Program',
+            author: 'Blake Peterson',
+            source: '425 Business',
+            who: 'public',
+        },
+        {
+            kind: 'press',
+            start: 2022,
+            end: 2022,
+            description:
                 'I was interviewed about our Google gift for STEP CS tuition subsidy.',
             url: 'https://www.425business.com/news/uw-computer-science-google-400k/article_abf64af0-50ba-11ed-b4d2-ab86ab3336e4.html',
             title: 'Google Giving $400K to UW Computer Science Teacher Education Program',
@@ -814,7 +826,7 @@ export const Amy: ProfileSpec = {
             title: 'SIGCHI Academy',
             year: 2022,
             description:
-                'A recognition given to honorary and leading individuals who have made substantial contributions ot the field of human-computer interaction, shaping the field.',
+                'A recognition given to honorary and leading individuals who have made substantial contributions to the field of human-computer interaction, shaping the field.',
         },
         {
             title: 'Oregon State University Council of Outstanding Early Career Engineers',
