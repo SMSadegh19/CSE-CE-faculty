@@ -86,25 +86,23 @@
 
     <Section
         id="csed-v-cer"
-        header="What is the difference between CS education research and computing education research?"
+        header="فرق بین پژوهش در آموزش علوم کامپیوتر (CS education) و آموزش رایانش (Computing education) چیست؟ "
     >
         <p>
-            The difference in these two phrases is in the difference between
-            "CS" and "Computing". CS generally refers to the historically core
-            topics in computer science research, such as theory, algorithms,
-            data structures, programming languages, and operating systems. But
-            other fields began to engage these ideas and identify their
-            intersections to other fields. For example, information science, a
-            field long concerned with data, information, and society, began to
-            consider those topics from a computer science perspective. Science
-            began to apply computer science ideas to data capture, storage, and
-            analysis. Biology, as it began to see DNA as a form of biological
-            data, and apply algorithms to analyzing it, formed bioinformatics.
-            Communication began to explore computer-mediated communication.
-            Behavioral and brain scientists started using computers to model
-            decisions, knowledge, and brain activity. And social scientists of
-            all kinds began studying and critiquing the role of computers in
-            society.
+            برای پی بردن به این موضوع باید به تفاوت بین «علوم کامپیوتر» و «رایانش» بپردازیم.
+            علوم کامپیوتر به طور کلی به هسته‌ی تاریخی پژوهش روی موضوعاتِ علوم کامپیوتر مانند تئوری،
+            الگوریتم‌ها، داده‌ساختارها، زبان‌های برنامه‌نویسی و سیستم‌عامل‌ها اشاره می‌کند.
+            با این حال دیگر فیلدها نیز شروع به بهره‌گیری از این ایده‌ها
+            و شناسایی اشتراک آن‌ها با فیلد خودشان کردند. برای مثال علم اطلاعات
+            - حوزه‌ای که همیشه با داده‌ها، اطلاعات و جامعه سر و کار دارد -
+            شروع به بررسی مفاهیم‌ش از منظر علوم کامپیوتر کرد.
+            به تدریج علم از ایده‌های علوم کامپیوتری مانند ثبت، نگه‌داری و تحلیل داده‌ها
+            بیشتر بهره می‌برد. به طور مثال هنگامی که زیست‌شناسی DNA را به عنوان یک داده‌ی زیستی دید
+            و از الگوریتم‌ها برای تحلیل آن استفاده کرد، بیوانفورماتیک را پدید آورد.
+            به تدریج ارتباطات مردم نیز با کامپیوتر محقق می‌شد.
+            دانشمندان رفتار مغز و رفتار نیز از کامپیوترها برای
+            مدل کردن تصمیم‌گیری‌ها، دانش و فعالیت مغز استفاده کردند و جامعه‌شناسان نیز به مطالعه
+            و نقد نقش کامپیوترها در جامعه پرداختند.
         </p>
 
         <p>
